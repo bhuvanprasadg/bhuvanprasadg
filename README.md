@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **DevOps, Azure**
 
-- 👨‍💻 All of my projects are available at [https://bhuvanprasadg.github.io/](https://bhuvanprasadg.github.io/)
-
 - 📝 I regularly write articles on [https://bhuvanprasad12.medium.com/](https://bhuvanprasad12.medium.com/)
 
 - 💬 Ask me about **Azure, DevOps, AWS, Kubernetes**
