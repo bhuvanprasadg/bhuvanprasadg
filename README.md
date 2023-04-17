@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhuvan Prasad</h1>
-<h3 align="center">Azure DevOps Engineer & SRE</h3>
+<h3 align="center">DevOps Engineer & SRE</h3>
 
 - 🔭 I’m currently working on **Azure, AWS , DevOps**
 
